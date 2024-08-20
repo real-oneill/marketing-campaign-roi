@@ -1,549 +1,549 @@
 MarketID,MarketSize,LocationID,AgeOfStore,Campaign,week,SalesInThousands
-1,Medium,1,4,Back to School,1,3.373
-1,Medium,1,4,Back to School,2,3.567
-1,Medium,1,4,Back to School,3,2.903
-1,Medium,1,4,Back to School,4,3.925
-1,Medium,2,5,End of Summer Savings,1,2.781
-1,Medium,2,5,End of Summer Savings,2,3.467
-1,Medium,2,5,End of Summer Savings,3,2.798
-1,Medium,2,5,End of Summer Savings,4,2.772
-1,Medium,3,12,Influencer Collection,1,4.454
-1,Medium,3,12,Influencer Collection,2,3.794
-1,Medium,3,12,Influencer Collection,3,4.549
-1,Medium,3,12,Influencer Collection,4,3.475
-1,Medium,4,1,End of Summer Savings,1,3.928
-1,Medium,4,1,End of Summer Savings,2,3.98
-1,Medium,4,1,End of Summer Savings,3,2.477
-1,Medium,4,1,End of Summer Savings,4,3.098
-1,Medium,5,10,End of Summer Savings,1,3.037
-1,Medium,5,10,End of Summer Savings,2,2.482
-1,Medium,5,10,End of Summer Savings,3,3.747
-1,Medium,5,10,End of Summer Savings,4,2.335
-1,Medium,6,10,Back to School,1,3.29
-1,Medium,6,10,Back to School,2,2.218
-1,Medium,6,10,Back to School,3,4.298
-1,Medium,6,10,Back to School,4,2.668
-1,Medium,7,15,Influencer Collection,1,4.292
-1,Medium,7,15,Influencer Collection,2,4.216
-1,Medium,7,15,Influencer Collection,3,5.172
-1,Medium,7,15,Influencer Collection,4,3.617
-1,Medium,8,10,End of Summer Savings,1,3.008
-1,Medium,8,10,End of Summer Savings,2,2.862
-1,Medium,8,10,End of Summer Savings,3,2.54
-1,Medium,8,10,End of Summer Savings,4,2.726
-1,Medium,9,6,Influencer Collection,1,3.741
-1,Medium,9,6,Influencer Collection,2,3.864
-1,Medium,9,6,Influencer Collection,3,4.09
-1,Medium,9,6,Influencer Collection,4,4.111
-1,Medium,10,5,End of Summer Savings,1,3.427
-1,Medium,10,5,End of Summer Savings,2,2.93
-1,Medium,10,5,End of Summer Savings,3,2.393
-1,Medium,10,5,End of Summer Savings,4,3.516
-1,Medium,11,5,Back to School,1,3.342
-1,Medium,11,5,Back to School,2,3.793
-1,Medium,11,5,Back to School,3,3.385
-1,Medium,11,5,Back to School,4,4.025
-1,Medium,12,12,Influencer Collection,1,3.585
-1,Medium,12,12,Influencer Collection,2,3.624
-1,Medium,12,12,Influencer Collection,3,4.173
-1,Medium,12,12,Influencer Collection,4,3.732
-1,Medium,13,12,Influencer Collection,1,5.048
-1,Medium,13,12,Influencer Collection,2,3.688
-1,Medium,13,12,Influencer Collection,3,3.568
-1,Medium,13,12,Influencer Collection,4,4.645
-2,Small,101,22,Influencer Collection,1,6.748
-2,Small,101,22,Influencer Collection,2,6.557
-2,Small,101,22,Influencer Collection,3,6.842
-2,Small,101,22,Influencer Collection,4,6.093
-2,Small,102,8,Back to School,1,6.159
-2,Small,102,8,Back to School,2,6.364
-2,Small,102,8,Back to School,3,5.468
-2,Small,102,8,Back to School,4,6.124
-2,Small,103,22,Back to School,1,6.293
-2,Small,103,22,Back to School,2,5.877
-2,Small,103,22,Back to School,3,7.06
-2,Small,103,22,Back to School,4,6.506
-2,Small,104,19,Back to School,1,5.976
-2,Small,104,19,Back to School,2,6.611
-2,Small,104,19,Back to School,3,6.216
-2,Small,104,19,Back to School,4,6.404
-2,Small,105,8,Back to School,1,5.965
-2,Small,105,8,Back to School,2,5.704
-2,Small,105,8,Back to School,3,5.973
-2,Small,105,8,Back to School,4,5.672
-2,Small,106,5,Back to School,1,5.855
-2,Small,106,5,Back to School,2,6.219
-2,Small,106,5,Back to School,3,5.314
-2,Small,106,5,Back to School,4,6.227
-3,Large,201,4,Back to School,1,8.614
-3,Large,201,4,Back to School,2,8.256
-3,Large,201,4,Back to School,3,7.936
-3,Large,201,4,Back to School,4,7.717
-3,Large,202,8,Influencer Collection,1,8.873
-3,Large,202,8,Influencer Collection,2,8.521
-3,Large,202,8,Influencer Collection,3,8.155
-3,Large,202,8,Influencer Collection,4,9.417
-3,Large,203,12,Back to School,1,8.97
-3,Large,203,12,Back to School,2,7.843
-3,Large,203,12,Back to School,3,8.405
-3,Large,203,12,Back to School,4,8.118
-3,Large,204,1,End of Summer Savings,1,8.743
-3,Large,204,1,End of Summer Savings,2,8.179
-3,Large,204,1,End of Summer Savings,3,8.812
-3,Large,204,1,End of Summer Savings,4,7.529
-3,Large,205,19,Back to School,1,8.302
-3,Large,205,19,Back to School,2,9.03
-3,Large,205,19,Back to School,3,8.518
-3,Large,205,19,Back to School,4,8.977
-3,Large,206,11,Back to School,1,8.264
-3,Large,206,11,Back to School,2,8.289
-3,Large,206,11,Back to School,3,8.213
-3,Large,206,11,Back to School,4,8.891
-3,Large,207,1,Back to School,1,8.77
-3,Large,207,1,Back to School,2,8.116
-3,Large,207,1,Back to School,3,8.158
-3,Large,207,1,Back to School,4,9.421
-3,Large,208,1,Back to School,1,9.648
-3,Large,208,1,Back to School,2,8.413
-3,Large,208,1,Back to School,3,9.198
-3,Large,208,1,Back to School,4,8.172
-3,Large,209,1,Influencer Collection,1,9.371
-3,Large,209,1,Influencer Collection,2,9.601
-3,Large,209,1,Influencer Collection,3,9.303
-3,Large,209,1,Influencer Collection,4,9.761
-3,Large,210,19,Influencer Collection,1,8.511
-3,Large,210,19,Influencer Collection,2,8.807
-3,Large,210,19,Influencer Collection,3,9.443
-3,Large,210,19,Influencer Collection,4,8.944
-3,Large,211,13,End of Summer Savings,1,8.864
-3,Large,211,13,End of Summer Savings,2,8.137
-3,Large,211,13,End of Summer Savings,3,8.214
-3,Large,211,13,End of Summer Savings,4,7.964
-3,Large,212,3,Back to School,1,8.434
-3,Large,212,3,Back to School,2,8.79
-3,Large,212,3,Back to School,3,7.612
-3,Large,212,3,Back to School,4,8.272
-3,Large,213,4,End of Summer Savings,1,7.322
-3,Large,213,4,End of Summer Savings,2,7.588
-3,Large,213,4,End of Summer Savings,3,7.801
-3,Large,213,4,End of Summer Savings,4,8.017
-3,Large,214,5,Influencer Collection,1,9.16
-3,Large,214,5,Influencer Collection,2,8.061
-3,Large,214,5,Influencer Collection,3,9.386
-3,Large,214,5,Influencer Collection,4,8.343
-3,Large,215,7,End of Summer Savings,1,8.265
-3,Large,215,7,End of Summer Savings,2,7.739
-3,Large,215,7,End of Summer Savings,3,8.083
-3,Large,215,7,End of Summer Savings,4,8.075
-3,Large,216,4,Back to School,1,9.489
-3,Large,216,4,Back to School,2,7.475
-3,Large,216,4,Back to School,3,9.363
-3,Large,216,4,Back to School,4,8.082
-3,Large,217,5,Back to School,1,9.161
-3,Large,217,5,Back to School,2,7.902
-3,Large,217,5,Back to School,3,8.611
-3,Large,217,5,Back to School,4,8.288
-3,Large,218,2,Influencer Collection,1,9.965
-3,Large,218,2,Influencer Collection,2,8.864
-3,Large,218,2,Influencer Collection,3,8.696
-3,Large,218,2,Influencer Collection,4,8.925
-3,Large,219,7,End of Summer Savings,1,6.622
-3,Large,219,7,End of Summer Savings,2,8.286
-3,Large,219,7,End of Summer Savings,3,8.34
-3,Large,219,7,End of Summer Savings,4,7.561
-3,Large,220,3,Influencer Collection,1,8.708
-3,Large,220,3,Influencer Collection,2,8.932
-3,Large,220,3,Influencer Collection,3,9.912
-3,Large,220,3,Influencer Collection,4,8.585
-3,Large,221,23,End of Summer Savings,1,7.953
-3,Large,221,23,End of Summer Savings,2,7.403
-3,Large,221,23,End of Summer Savings,3,7.853
-3,Large,221,23,End of Summer Savings,4,7.671
-3,Large,222,6,Influencer Collection,1,9.332
-3,Large,222,6,Influencer Collection,2,8.571
-3,Large,222,6,Influencer Collection,3,7.736
-3,Large,222,6,Influencer Collection,4,9.129
-4,Small,301,1,End of Summer Savings,1,4.961
-4,Small,301,1,End of Summer Savings,2,4.369
-4,Small,301,1,End of Summer Savings,3,5.449
-4,Small,301,1,End of Summer Savings,4,6.125
-4,Small,302,7,Back to School,1,5.147
-4,Small,302,7,Back to School,2,5.347
-4,Small,302,7,Back to School,3,4.683
-4,Small,302,7,Back to School,4,5.67
-4,Small,303,9,Influencer Collection,1,5.594
-4,Small,303,9,Influencer Collection,2,6.136
-4,Small,303,9,Influencer Collection,3,5.619
-4,Small,303,9,Influencer Collection,4,6.206
-4,Small,304,3,Influencer Collection,1,5.401
-4,Small,304,3,Influencer Collection,2,6.348
-4,Small,304,3,Influencer Collection,3,6.196
-4,Small,304,3,Influencer Collection,4,5.53
-4,Small,305,2,End of Summer Savings,1,4.789
-4,Small,305,2,End of Summer Savings,2,5.237
-4,Small,305,2,End of Summer Savings,3,4.911
-4,Small,305,2,End of Summer Savings,4,5.288
-4,Small,306,13,Influencer Collection,1,5.379
-4,Small,306,13,Influencer Collection,2,6.696
-4,Small,306,13,Influencer Collection,3,5.71
-4,Small,306,13,Influencer Collection,4,6.512
-4,Small,307,7,End of Summer Savings,1,4.698
-4,Small,307,7,End of Summer Savings,2,5.341
-4,Small,307,7,End of Summer Savings,3,3.617
-4,Small,307,7,End of Summer Savings,4,5.598
-4,Small,308,28,End of Summer Savings,1,5.187
-4,Small,308,28,End of Summer Savings,2,5.801
-4,Small,308,28,End of Summer Savings,3,4.793
-4,Small,308,28,End of Summer Savings,4,5.133
-4,Small,309,8,Influencer Collection,1,6.216
-4,Small,309,8,Influencer Collection,2,5.406
-4,Small,309,8,Influencer Collection,3,5.172
-4,Small,309,8,Influencer Collection,4,5.964
-5,Medium,401,5,Back to School,1,5.223
-5,Medium,401,5,Back to School,2,5.168
-5,Medium,401,5,Back to School,3,4.622
-5,Medium,401,5,Back to School,4,4.603
-5,Medium,402,25,End of Summer Savings,1,4.04
-5,Medium,402,25,End of Summer Savings,2,5.028
-5,Medium,402,25,End of Summer Savings,3,5.272
-5,Medium,402,25,End of Summer Savings,4,3.83
-5,Medium,403,19,End of Summer Savings,1,5.179
-5,Medium,403,19,End of Summer Savings,2,4.256
-5,Medium,403,19,End of Summer Savings,3,4.464
-5,Medium,403,19,End of Summer Savings,4,4.511
-5,Medium,404,8,End of Summer Savings,1,4.215
-5,Medium,404,8,End of Summer Savings,2,4.259
-5,Medium,404,8,End of Summer Savings,3,4.956
-5,Medium,404,8,End of Summer Savings,4,3.925
-5,Medium,405,4,End of Summer Savings,1,4.818
-5,Medium,405,4,End of Summer Savings,2,4.825
-5,Medium,405,4,End of Summer Savings,3,4.642
-5,Medium,405,4,End of Summer Savings,4,4.377
-5,Medium,406,3,End of Summer Savings,1,4.53
-5,Medium,406,3,End of Summer Savings,2,4.884
-5,Medium,406,3,End of Summer Savings,3,4.508
-5,Medium,406,3,End of Summer Savings,4,4.467
-5,Medium,407,6,Back to School,1,4.556
-5,Medium,407,6,Back to School,2,5.519
-5,Medium,407,6,Back to School,3,3.784
-5,Medium,407,6,Back to School,4,5.007
-5,Medium,408,9,End of Summer Savings,1,4.733
-5,Medium,408,9,End of Summer Savings,2,4.542
-5,Medium,408,9,End of Summer Savings,3,4.431
-5,Medium,408,9,End of Summer Savings,4,4.026
-5,Medium,409,14,End of Summer Savings,1,4.327
-5,Medium,409,14,End of Summer Savings,2,4.833
-5,Medium,409,14,End of Summer Savings,3,4.414
-5,Medium,409,14,End of Summer Savings,4,5.15
-5,Medium,410,11,Influencer Collection,1,4.995
-5,Medium,410,11,Influencer Collection,2,5.511
-5,Medium,410,11,Influencer Collection,3,5.528
-5,Medium,410,11,Influencer Collection,4,5.47
-5,Medium,411,23,Back to School,1,5.011
-5,Medium,411,23,Back to School,2,5.559
-5,Medium,411,23,Back to School,3,5.437
-5,Medium,411,23,Back to School,4,5.191
-5,Medium,412,6,Influencer Collection,1,5.934
-5,Medium,412,6,Influencer Collection,2,6.263
-5,Medium,412,6,Influencer Collection,3,4.908
-5,Medium,412,6,Influencer Collection,4,5.804
-5,Medium,413,1,End of Summer Savings,1,4.626
-5,Medium,413,1,End of Summer Savings,2,4.771
-5,Medium,413,1,End of Summer Savings,3,5.409
-5,Medium,413,1,End of Summer Savings,4,4.689
-5,Medium,414,1,Back to School,1,5.737
-5,Medium,414,1,Back to School,2,5.553
-5,Medium,414,1,Back to School,3,5.116
-5,Medium,414,1,Back to School,4,5.706
-5,Medium,415,12,Back to School,1,5.059
-5,Medium,415,12,Back to School,2,4.864
-5,Medium,415,12,Back to School,3,5.055
-5,Medium,415,12,Back to School,4,4.908
-6,Medium,501,6,Back to School,1,2.475
-6,Medium,501,6,Back to School,2,4.147
-6,Medium,501,6,Back to School,3,3.51
-6,Medium,501,6,Back to School,4,3.433
-6,Medium,502,19,End of Summer Savings,1,3.194
-6,Medium,502,19,End of Summer Savings,2,2.964
-6,Medium,502,19,End of Summer Savings,3,3.364
-6,Medium,502,19,End of Summer Savings,4,3.605
-6,Medium,503,2,End of Summer Savings,1,3.67
-6,Medium,503,2,End of Summer Savings,2,4.153
-6,Medium,503,2,End of Summer Savings,3,2.771
-6,Medium,503,2,End of Summer Savings,4,3.72
-6,Medium,504,4,Influencer Collection,1,4.216
-6,Medium,504,4,Influencer Collection,2,3.68
-6,Medium,504,4,Influencer Collection,3,4.698
-6,Medium,504,4,Influencer Collection,4,4.735
-6,Medium,505,1,End of Summer Savings,1,3.221
-6,Medium,505,1,End of Summer Savings,2,3.841
-6,Medium,505,1,End of Summer Savings,3,3.79
-6,Medium,505,1,End of Summer Savings,4,4.484
-6,Medium,506,12,End of Summer Savings,1,3.745
-6,Medium,506,12,End of Summer Savings,2,3.546
-6,Medium,506,12,End of Summer Savings,3,3.185
-6,Medium,506,12,End of Summer Savings,4,1.926
-6,Medium,507,5,End of Summer Savings,1,3.865
-6,Medium,507,5,End of Summer Savings,2,1.734
-6,Medium,507,5,End of Summer Savings,3,3.314
-6,Medium,507,5,End of Summer Savings,4,2.344
-6,Medium,508,5,Back to School,1,3.717
-6,Medium,508,5,Back to School,2,3.052
-6,Medium,508,5,Back to School,3,3.251
-6,Medium,508,5,Back to School,4,2.912
-6,Medium,509,8,Influencer Collection,1,4.046
-6,Medium,509,8,Influencer Collection,2,4.125
-6,Medium,509,8,Influencer Collection,3,3.205
-6,Medium,509,8,Influencer Collection,4,4.75
-6,Medium,510,7,End of Summer Savings,1,3.277
-6,Medium,510,7,End of Summer Savings,2,3.026
-6,Medium,510,7,End of Summer Savings,3,2.755
-6,Medium,510,7,End of Summer Savings,4,2.737
-6,Medium,511,24,Back to School,1,4.748
-6,Medium,511,24,Back to School,2,3.941
-6,Medium,511,24,Back to School,3,4.329
-6,Medium,511,24,Back to School,4,4.259
-6,Medium,512,4,Influencer Collection,1,3.53
-6,Medium,512,4,Influencer Collection,2,3.586
-6,Medium,512,4,Influencer Collection,3,4.93
-6,Medium,512,4,Influencer Collection,4,3.081
-6,Medium,513,7,Influencer Collection,1,4.498
-6,Medium,513,7,Influencer Collection,2,4.171
-6,Medium,513,7,Influencer Collection,3,4.11
-6,Medium,513,7,Influencer Collection,4,4.097
-6,Medium,514,6,Influencer Collection,1,4.11
-6,Medium,514,6,Influencer Collection,2,4.156
-6,Medium,514,6,Influencer Collection,3,3.639
-6,Medium,514,6,Influencer Collection,4,3.967
-6,Medium,515,8,Back to School,1,3.446
-6,Medium,515,8,Back to School,2,4.013
-6,Medium,515,8,Back to School,3,3.218
-6,Medium,515,8,Back to School,4,4.373
-7,Medium,601,7,Back to School,1,4.901
-7,Medium,601,7,Back to School,2,4.629
-7,Medium,601,7,Back to School,3,3.714
-7,Medium,601,7,Back to School,4,4.282
-7,Medium,602,4,Back to School,1,4.722
-7,Medium,602,4,Back to School,2,3.524
-7,Medium,602,4,Back to School,3,4.722
-7,Medium,602,4,Back to School,4,4.315
-7,Medium,603,4,End of Summer Savings,1,4.071
-7,Medium,603,4,End of Summer Savings,2,3.826
-7,Medium,603,4,End of Summer Savings,3,4.144
-7,Medium,603,4,End of Summer Savings,4,2.57
-7,Medium,604,11,Back to School,1,4.029
-7,Medium,604,11,Back to School,2,4.835
-7,Medium,604,11,Back to School,3,4.326
-7,Medium,604,11,Back to School,4,4.42
-7,Medium,605,8,Back to School,1,4.614
-7,Medium,605,8,Back to School,2,4.112
-7,Medium,605,8,Back to School,3,4.503
-7,Medium,605,8,Back to School,4,3.885
-7,Medium,606,8,Back to School,1,4.196
-7,Medium,606,8,Back to School,2,4.227
-7,Medium,606,8,Back to School,3,3.851
-7,Medium,606,8,Back to School,4,4.351
-7,Medium,607,3,End of Summer Savings,1,4.939
-7,Medium,607,3,End of Summer Savings,2,4.025
-7,Medium,607,3,End of Summer Savings,3,4.246
-7,Medium,607,3,End of Summer Savings,4,3.162
-7,Medium,608,18,Influencer Collection,1,5.338
-7,Medium,608,18,Influencer Collection,2,5.531
-7,Medium,608,18,Influencer Collection,3,5.61
-7,Medium,608,18,Influencer Collection,4,4.324
-7,Medium,609,9,Influencer Collection,1,4.818
-7,Medium,609,9,Influencer Collection,2,4.311
-7,Medium,609,9,Influencer Collection,3,4.378
-7,Medium,609,9,Influencer Collection,4,5.69
-7,Medium,610,4,Influencer Collection,1,5.353
-7,Medium,610,4,Influencer Collection,2,4.792
-7,Medium,610,4,Influencer Collection,3,5.618
-7,Medium,610,4,Influencer Collection,4,4.666
-7,Medium,611,11,Back to School,1,4.043
-7,Medium,611,11,Back to School,2,5.115
-7,Medium,611,11,Back to School,3,4.25
-7,Medium,611,11,Back to School,4,5.276
-7,Medium,612,1,Back to School,1,4.763
-7,Medium,612,1,Back to School,2,5.221
-7,Medium,612,1,Back to School,3,4.017
-7,Medium,612,1,Back to School,4,4.836
-7,Medium,613,18,Influencer Collection,1,4.276
-7,Medium,613,18,Influencer Collection,2,5.052
-7,Medium,613,18,Influencer Collection,3,5.686
-7,Medium,613,18,Influencer Collection,4,4.751
-7,Medium,614,8,End of Summer Savings,1,3.856
-7,Medium,614,8,End of Summer Savings,2,3.729
-7,Medium,614,8,End of Summer Savings,3,3.56
-7,Medium,614,8,End of Summer Savings,4,3.335
-7,Medium,615,1,End of Summer Savings,1,4.85
-7,Medium,615,1,End of Summer Savings,2,3.68
-7,Medium,615,1,End of Summer Savings,3,4.832
-7,Medium,615,1,End of Summer Savings,4,4.154
-8,Medium,701,1,Back to School,1,5.356
-8,Medium,701,1,Back to School,2,4.972
-8,Medium,701,1,Back to School,3,4.877
-8,Medium,701,1,Back to School,4,4.684
-8,Medium,702,13,Influencer Collection,1,5.182
-8,Medium,702,13,Influencer Collection,2,4.502
-8,Medium,702,13,Influencer Collection,3,4.944
-8,Medium,702,13,Influencer Collection,4,5.132
-8,Medium,703,4,Influencer Collection,1,5.285
-8,Medium,703,4,Influencer Collection,2,4.084
-8,Medium,703,4,Influencer Collection,3,6.445
-8,Medium,703,4,Influencer Collection,4,4.443
-8,Medium,704,27,Influencer Collection,1,5.664
-8,Medium,704,27,Influencer Collection,2,4.606
-8,Medium,704,27,Influencer Collection,3,5.546
-8,Medium,704,27,Influencer Collection,4,5.141
-8,Medium,705,22,Back to School,1,4.967
-8,Medium,705,22,Back to School,2,4.998
-8,Medium,705,22,Back to School,3,4.95
-8,Medium,705,22,Back to School,4,4.735
-8,Medium,706,17,Back to School,1,5.026
-8,Medium,706,17,Back to School,2,5.205
-8,Medium,706,17,Back to School,3,5.114
-8,Medium,706,17,Back to School,4,4.63
-8,Medium,707,5,Influencer Collection,1,5.699
-8,Medium,707,5,Influencer Collection,2,4.557
-8,Medium,707,5,Influencer Collection,3,4.592
-8,Medium,707,5,Influencer Collection,4,5.052
-8,Medium,708,15,End of Summer Savings,1,3.261
-8,Medium,708,15,End of Summer Savings,2,5.727
-8,Medium,708,15,End of Summer Savings,3,3.732
-8,Medium,708,15,End of Summer Savings,4,4.122
-8,Medium,709,1,End of Summer Savings,1,3.973
-8,Medium,709,1,End of Summer Savings,2,5.03
-8,Medium,709,1,End of Summer Savings,3,4.016
-8,Medium,709,1,End of Summer Savings,4,4.137
-8,Medium,710,24,Back to School,1,5.479
-8,Medium,710,24,Back to School,2,5.239
-8,Medium,710,24,Back to School,3,4.215
-8,Medium,710,24,Back to School,4,4.963
-8,Medium,711,1,Influencer Collection,1,5.495
-8,Medium,711,1,Influencer Collection,2,5.578
-8,Medium,711,1,Influencer Collection,3,4.649
-8,Medium,711,1,Influencer Collection,4,5.684
-8,Medium,712,9,Back to School,1,4.806
-8,Medium,712,9,Back to School,2,5.109
-8,Medium,712,9,Back to School,3,4.419
-8,Medium,712,9,Back to School,4,4.952
-9,Medium,801,3,Influencer Collection,1,6.511
-9,Medium,801,3,Influencer Collection,2,5.438
-9,Medium,801,3,Influencer Collection,3,5.714
-9,Medium,801,3,Influencer Collection,4,4.991
-9,Medium,802,9,End of Summer Savings,1,4.876
-9,Medium,802,9,End of Summer Savings,2,4.414
-9,Medium,802,9,End of Summer Savings,3,5.81
-9,Medium,802,9,End of Summer Savings,4,4.416
-9,Medium,803,10,Back to School,1,4.466
-9,Medium,803,10,Back to School,2,5.378
-9,Medium,803,10,Back to School,3,4.391
-9,Medium,803,10,Back to School,4,5.241
-9,Medium,804,1,Influencer Collection,1,5.054
-9,Medium,804,1,Influencer Collection,2,5.843
-9,Medium,804,1,Influencer Collection,3,5.977
-9,Medium,804,1,Influencer Collection,4,6.044
-9,Medium,805,6,Back to School,1,5.094
-9,Medium,805,6,Back to School,2,4.938
-9,Medium,805,6,Back to School,3,6.398
-9,Medium,805,6,Back to School,4,4.584
-9,Medium,806,5,Back to School,1,5.101
-9,Medium,806,5,Back to School,2,5.616
-9,Medium,806,5,Back to School,3,4.577
-9,Medium,806,5,Back to School,4,4.647
-9,Medium,807,1,End of Summer Savings,1,4.602
-9,Medium,807,1,End of Summer Savings,2,5.109
-9,Medium,807,1,End of Summer Savings,3,5.168
-9,Medium,807,1,End of Summer Savings,4,5.591
-9,Medium,808,20,Back to School,1,5.59
-9,Medium,808,20,Back to School,2,5.98
-9,Medium,808,20,Back to School,3,6.097
-9,Medium,808,20,Back to School,4,6.414
-9,Medium,809,9,Back to School,1,3.998
-9,Medium,809,9,Back to School,2,5.458
-9,Medium,809,9,Back to School,3,5.264
-9,Medium,809,9,Back to School,4,4.543
-9,Medium,810,13,Influencer Collection,1,4.93
-9,Medium,810,13,Influencer Collection,2,6.18
-9,Medium,810,13,Influencer Collection,3,5.8
-9,Medium,810,13,Influencer Collection,4,5.52
-10,Large,901,7,End of Summer Savings,1,5.376
-10,Large,901,7,End of Summer Savings,2,3.936
-10,Large,901,7,End of Summer Savings,3,4.72
-10,Large,901,7,End of Summer Savings,4,5.366
-10,Large,902,1,Influencer Collection,1,6.153
-10,Large,902,1,Influencer Collection,2,5.917
-10,Large,902,1,Influencer Collection,3,6.373
-10,Large,902,1,Influencer Collection,4,6.177
-10,Large,903,7,Back to School,1,5.189
-10,Large,903,7,Back to School,2,5.117
-10,Large,903,7,Back to School,3,5.433
-10,Large,903,7,Back to School,4,5.005
-10,Large,904,10,End of Summer Savings,1,5.109
-10,Large,904,10,End of Summer Savings,2,5.482
-10,Large,904,10,End of Summer Savings,3,4.416
-10,Large,904,10,End of Summer Savings,4,5.395
-10,Large,905,2,Back to School,1,5.434
-10,Large,905,2,Back to School,2,6.024
-10,Large,905,2,Back to School,3,5.639
-10,Large,905,2,Back to School,4,5.833
-10,Large,906,13,End of Summer Savings,1,5.126
-10,Large,906,13,End of Summer Savings,2,5.173
-10,Large,906,13,End of Summer Savings,3,5.135
-10,Large,906,13,End of Summer Savings,4,4.185
-10,Large,907,10,End of Summer Savings,1,4.521
-10,Large,907,10,End of Summer Savings,2,5.502
-10,Large,907,10,End of Summer Savings,3,4.535
-10,Large,907,10,End of Summer Savings,4,4.706
-10,Large,908,3,End of Summer Savings,1,4.359
-10,Large,908,3,End of Summer Savings,2,4.603
-10,Large,908,3,End of Summer Savings,3,4.722
-10,Large,908,3,End of Summer Savings,4,5.141
-10,Large,909,1,Influencer Collection,1,5.819
-10,Large,909,1,Influencer Collection,2,6.272
-10,Large,909,1,Influencer Collection,3,6.666
-10,Large,909,1,Influencer Collection,4,6.466
-10,Large,910,1,Influencer Collection,1,6.634
-10,Large,910,1,Influencer Collection,2,6.059
-10,Large,910,1,Influencer Collection,3,6.195
-10,Large,910,1,Influencer Collection,4,6.784
-10,Large,911,1,End of Summer Savings,1,5.539
-10,Large,911,1,End of Summer Savings,2,4.916
-10,Large,911,1,End of Summer Savings,3,5.826
-10,Large,911,1,End of Summer Savings,4,4.812
-10,Large,912,6,End of Summer Savings,1,4.998
-10,Large,912,6,End of Summer Savings,2,4.484
-10,Large,912,6,End of Summer Savings,3,5.512
-10,Large,912,6,End of Summer Savings,4,4.736
-10,Large,913,24,Influencer Collection,1,6.233
-10,Large,913,24,Influencer Collection,2,5.368
-10,Large,913,24,Influencer Collection,3,6.237
-10,Large,913,24,Influencer Collection,4,6.358
-10,Large,914,9,End of Summer Savings,1,4.47
-10,Large,914,9,End of Summer Savings,2,4.344
-10,Large,914,9,End of Summer Savings,3,5.236
-10,Large,914,9,End of Summer Savings,4,4.59
-10,Large,915,3,Influencer Collection,1,5.351
-10,Large,915,3,Influencer Collection,2,4.976
-10,Large,915,3,Influencer Collection,3,6.831
-10,Large,915,3,Influencer Collection,4,6.61
-10,Large,916,7,End of Summer Savings,1,4.361
-10,Large,916,7,End of Summer Savings,2,4.62
-10,Large,916,7,End of Summer Savings,3,5.152
-10,Large,916,7,End of Summer Savings,4,4.971
-10,Large,917,14,Back to School,1,5.35
-10,Large,917,14,Back to School,2,5.634
-10,Large,917,14,Back to School,3,5.183
-10,Large,917,14,Back to School,4,5.02
-10,Large,918,6,Influencer Collection,1,4.962
-10,Large,918,6,Influencer Collection,2,6.254
-10,Large,918,6,Influencer Collection,3,5.011
-10,Large,918,6,Influencer Collection,4,6.163
-10,Large,919,2,Influencer Collection,1,5.987
-10,Large,919,2,Influencer Collection,2,6.299
-10,Large,919,2,Influencer Collection,3,5.72
-10,Large,919,2,Influencer Collection,4,6.434
-10,Large,920,14,End of Summer Savings,1,5.02
-10,Large,920,14,End of Summer Savings,2,4.575
-10,Large,920,14,End of Summer Savings,3,4.429
-10,Large,920,14,End of Summer Savings,4,4.941
+1,Medium,1,4,Back to School,1,0.337
+1,Medium,1,4,Back to School,2,0.3567
+1,Medium,1,4,Back to School,3,0.2903
+1,Medium,1,4,Back to School,4,0.3925
+1,Medium,2,5,End of Summer Savings,1,0.2781
+1,Medium,2,5,End of Summer Savings,2,0.3467
+1,Medium,2,5,End of Summer Savings,3,0.2798
+1,Medium,2,5,End of Summer Savings,4,0.2772
+1,Medium,3,12,Influencer Collection,1,0.4454
+1,Medium,3,12,Influencer Collection,2,0.3794
+1,Medium,3,12,Influencer Collection,3,0.4549
+1,Medium,3,12,Influencer Collection,4,0.3475
+1,Medium,4,1,End of Summer Savings,1,0.3928
+1,Medium,4,1,End of Summer Savings,2,0.398
+1,Medium,4,1,End of Summer Savings,3,0.2477
+1,Medium,4,1,End of Summer Savings,4,0.3098
+1,Medium,5,10,End of Summer Savings,1,0.3037
+1,Medium,5,10,End of Summer Savings,2,0.2482
+1,Medium,5,10,End of Summer Savings,3,0.3747
+1,Medium,5,10,End of Summer Savings,4,0.2335
+1,Medium,6,10,Back to School,1,0.329
+1,Medium,6,10,Back to School,2,0.2218
+1,Medium,6,10,Back to School,3,0.4298
+1,Medium,6,10,Back to School,4,0.2668
+1,Medium,7,15,Influencer Collection,1,0.4292
+1,Medium,7,15,Influencer Collection,2,0.4216
+1,Medium,7,15,Influencer Collection,3,0.5172
+1,Medium,7,15,Influencer Collection,4,0.3617
+1,Medium,8,10,End of Summer Savings,1,0.3008
+1,Medium,8,10,End of Summer Savings,2,0.2862
+1,Medium,8,10,End of Summer Savings,3,0.254
+1,Medium,8,10,End of Summer Savings,4,0.2726
+1,Medium,9,6,Influencer Collection,1,0.3741
+1,Medium,9,6,Influencer Collection,2,0.3864
+1,Medium,9,6,Influencer Collection,3,0.409
+1,Medium,9,6,Influencer Collection,4,0.4111
+1,Medium,10,5,End of Summer Savings,1,0.3427
+1,Medium,10,5,End of Summer Savings,2,0.293
+1,Medium,10,5,End of Summer Savings,3,0.2393
+1,Medium,10,5,End of Summer Savings,4,0.3516
+1,Medium,11,5,Back to School,1,0.3342
+1,Medium,11,5,Back to School,2,0.3793
+1,Medium,11,5,Back to School,3,0.3385
+1,Medium,11,5,Back to School,4,0.4025
+1,Medium,12,12,Influencer Collection,1,0.3585
+1,Medium,12,12,Influencer Collection,2,0.3624
+1,Medium,12,12,Influencer Collection,3,0.4173
+1,Medium,12,12,Influencer Collection,4,0.3732
+1,Medium,13,12,Influencer Collection,1,0.5048
+1,Medium,13,12,Influencer Collection,2,0.3688
+1,Medium,13,12,Influencer Collection,3,0.3568
+1,Medium,13,12,Influencer Collection,4,0.4645
+2,Small,101,22,Influencer Collection,1,0.6748
+2,Small,101,22,Influencer Collection,2,0.6557
+2,Small,101,22,Influencer Collection,3,0.6842
+2,Small,101,22,Influencer Collection,4,0.6093
+2,Small,102,8,Back to School,1,0.6159
+2,Small,102,8,Back to School,2,0.6364
+2,Small,102,8,Back to School,3,0.5468
+2,Small,102,8,Back to School,4,0.6124
+2,Small,103,22,Back to School,1,0.6293
+2,Small,103,22,Back to School,2,0.5877
+2,Small,103,22,Back to School,3,0.706
+2,Small,103,22,Back to School,4,0.6506
+2,Small,104,19,Back to School,1,0.5976
+2,Small,104,19,Back to School,2,0.6611
+2,Small,104,19,Back to School,3,0.6216
+2,Small,104,19,Back to School,4,0.6404
+2,Small,105,8,Back to School,1,0.5965
+2,Small,105,8,Back to School,2,0.5704
+2,Small,105,8,Back to School,3,0.5973
+2,Small,105,8,Back to School,4,0.5672
+2,Small,106,5,Back to School,1,0.5855
+2,Small,106,5,Back to School,2,0.6219
+2,Small,106,5,Back to School,3,0.5314
+2,Small,106,5,Back to School,4,0.6227
+3,Large,201,4,Back to School,1,0.8614
+3,Large,201,4,Back to School,2,0.8256
+3,Large,201,4,Back to School,3,0.7936
+3,Large,201,4,Back to School,4,0.7717
+3,Large,202,8,Influencer Collection,1,0.8873
+3,Large,202,8,Influencer Collection,2,0.8521
+3,Large,202,8,Influencer Collection,3,0.8155
+3,Large,202,8,Influencer Collection,4,0.9417
+3,Large,203,12,Back to School,1,0.897
+3,Large,203,12,Back to School,2,0.7843
+3,Large,203,12,Back to School,3,0.8405
+3,Large,203,12,Back to School,4,0.8118
+3,Large,204,1,End of Summer Savings,1,0.8743
+3,Large,204,1,End of Summer Savings,2,0.8179
+3,Large,204,1,End of Summer Savings,3,0.8812
+3,Large,204,1,End of Summer Savings,4,0.7529
+3,Large,205,19,Back to School,1,0.8302
+3,Large,205,19,Back to School,2,0.903
+3,Large,205,19,Back to School,3,0.8518
+3,Large,205,19,Back to School,4,0.8977
+3,Large,206,11,Back to School,1,0.8264
+3,Large,206,11,Back to School,2,0.8289
+3,Large,206,11,Back to School,3,0.8213
+3,Large,206,11,Back to School,4,0.8891
+3,Large,207,1,Back to School,1,0.877
+3,Large,207,1,Back to School,2,0.8116
+3,Large,207,1,Back to School,3,0.8158
+3,Large,207,1,Back to School,4,0.9421
+3,Large,208,1,Back to School,1,0.9648
+3,Large,208,1,Back to School,2,0.8413
+3,Large,208,1,Back to School,3,0.9198
+3,Large,208,1,Back to School,4,0.8172
+3,Large,209,1,Influencer Collection,1,0.9371
+3,Large,209,1,Influencer Collection,2,0.9601
+3,Large,209,1,Influencer Collection,3,0.9303
+3,Large,209,1,Influencer Collection,4,0.9761
+3,Large,210,19,Influencer Collection,1,0.8511
+3,Large,210,19,Influencer Collection,2,0.8807
+3,Large,210,19,Influencer Collection,3,0.9443
+3,Large,210,19,Influencer Collection,4,0.8944
+3,Large,211,13,End of Summer Savings,1,0.8864
+3,Large,211,13,End of Summer Savings,2,0.8137
+3,Large,211,13,End of Summer Savings,3,0.8214
+3,Large,211,13,End of Summer Savings,4,0.7964
+3,Large,212,3,Back to School,1,0.8434
+3,Large,212,3,Back to School,2,0.879
+3,Large,212,3,Back to School,3,0.7612
+3,Large,212,3,Back to School,4,0.8272
+3,Large,213,4,End of Summer Savings,1,0.7322
+3,Large,213,4,End of Summer Savings,2,0.7588
+3,Large,213,4,End of Summer Savings,3,0.7801
+3,Large,213,4,End of Summer Savings,4,0.8017
+3,Large,214,5,Influencer Collection,1,0.916
+3,Large,214,5,Influencer Collection,2,0.8061
+3,Large,214,5,Influencer Collection,3,0.9386
+3,Large,214,5,Influencer Collection,4,0.8343
+3,Large,215,7,End of Summer Savings,1,0.8265
+3,Large,215,7,End of Summer Savings,2,0.7739
+3,Large,215,7,End of Summer Savings,3,0.8083
+3,Large,215,7,End of Summer Savings,4,0.8075
+3,Large,216,4,Back to School,1,0.9489
+3,Large,216,4,Back to School,2,0.7475
+3,Large,216,4,Back to School,3,0.9363
+3,Large,216,4,Back to School,4,0.8082
+3,Large,217,5,Back to School,1,0.9161
+3,Large,217,5,Back to School,2,0.7902
+3,Large,217,5,Back to School,3,0.8611
+3,Large,217,5,Back to School,4,0.8288
+3,Large,218,2,Influencer Collection,1,0.9965
+3,Large,218,2,Influencer Collection,2,0.8864
+3,Large,218,2,Influencer Collection,3,0.8696
+3,Large,218,2,Influencer Collection,4,0.8925
+3,Large,219,7,End of Summer Savings,1,0.6622
+3,Large,219,7,End of Summer Savings,2,0.8286
+3,Large,219,7,End of Summer Savings,3,0.834
+3,Large,219,7,End of Summer Savings,4,0.7561
+3,Large,220,3,Influencer Collection,1,0.8708
+3,Large,220,3,Influencer Collection,2,0.8932
+3,Large,220,3,Influencer Collection,3,0.9912
+3,Large,220,3,Influencer Collection,4,0.8585
+3,Large,221,23,End of Summer Savings,1,0.7953
+3,Large,221,23,End of Summer Savings,2,0.7403
+3,Large,221,23,End of Summer Savings,3,0.7853
+3,Large,221,23,End of Summer Savings,4,0.7671
+3,Large,222,6,Influencer Collection,1,0.9332
+3,Large,222,6,Influencer Collection,2,0.8571
+3,Large,222,6,Influencer Collection,3,0.7736
+3,Large,222,6,Influencer Collection,4,0.9129
+4,Small,301,1,End of Summer Savings,1,0.4961
+4,Small,301,1,End of Summer Savings,2,0.4369
+4,Small,301,1,End of Summer Savings,3,0.5449
+4,Small,301,1,End of Summer Savings,4,0.6125
+4,Small,302,7,Back to School,1,0.5147
+4,Small,302,7,Back to School,2,0.5347
+4,Small,302,7,Back to School,3,0.4683
+4,Small,302,7,Back to School,4,0.567
+4,Small,303,9,Influencer Collection,1,0.5594
+4,Small,303,9,Influencer Collection,2,0.6136
+4,Small,303,9,Influencer Collection,3,0.5619
+4,Small,303,9,Influencer Collection,4,0.6206
+4,Small,304,3,Influencer Collection,1,0.5401
+4,Small,304,3,Influencer Collection,2,0.6348
+4,Small,304,3,Influencer Collection,3,0.6196
+4,Small,304,3,Influencer Collection,4,0.553
+4,Small,305,2,End of Summer Savings,1,0.4789
+4,Small,305,2,End of Summer Savings,2,0.5237
+4,Small,305,2,End of Summer Savings,3,0.4911
+4,Small,305,2,End of Summer Savings,4,0.5288
+4,Small,306,13,Influencer Collection,1,0.5379
+4,Small,306,13,Influencer Collection,2,0.6696
+4,Small,306,13,Influencer Collection,3,0.571
+4,Small,306,13,Influencer Collection,4,0.6512
+4,Small,307,7,End of Summer Savings,1,0.4698
+4,Small,307,7,End of Summer Savings,2,0.5341
+4,Small,307,7,End of Summer Savings,3,0.3617
+4,Small,307,7,End of Summer Savings,4,0.5598
+4,Small,308,28,End of Summer Savings,1,0.5187
+4,Small,308,28,End of Summer Savings,2,0.5801
+4,Small,308,28,End of Summer Savings,3,0.4793
+4,Small,308,28,End of Summer Savings,4,0.5133
+4,Small,309,8,Influencer Collection,1,0.6216
+4,Small,309,8,Influencer Collection,2,0.5406
+4,Small,309,8,Influencer Collection,3,0.5172
+4,Small,309,8,Influencer Collection,4,0.5964
+5,Medium,401,5,Back to School,1,0.5223
+5,Medium,401,5,Back to School,2,0.5168
+5,Medium,401,5,Back to School,3,0.4622
+5,Medium,401,5,Back to School,4,0.4603
+5,Medium,402,25,End of Summer Savings,1,0.404
+5,Medium,402,25,End of Summer Savings,2,0.5028
+5,Medium,402,25,End of Summer Savings,3,0.5272
+5,Medium,402,25,End of Summer Savings,4,0.383
+5,Medium,403,19,End of Summer Savings,1,0.5179
+5,Medium,403,19,End of Summer Savings,2,0.4256
+5,Medium,403,19,End of Summer Savings,3,0.4464
+5,Medium,403,19,End of Summer Savings,4,0.4511
+5,Medium,404,8,End of Summer Savings,1,0.4215
+5,Medium,404,8,End of Summer Savings,2,0.4259
+5,Medium,404,8,End of Summer Savings,3,0.4956
+5,Medium,404,8,End of Summer Savings,4,0.3925
+5,Medium,405,4,End of Summer Savings,1,0.4818
+5,Medium,405,4,End of Summer Savings,2,0.4825
+5,Medium,405,4,End of Summer Savings,3,0.4642
+5,Medium,405,4,End of Summer Savings,4,0.4377
+5,Medium,406,3,End of Summer Savings,1,0.453
+5,Medium,406,3,End of Summer Savings,2,0.4884
+5,Medium,406,3,End of Summer Savings,3,0.4508
+5,Medium,406,3,End of Summer Savings,4,0.4467
+5,Medium,407,6,Back to School,1,0.4556
+5,Medium,407,6,Back to School,2,0.5519
+5,Medium,407,6,Back to School,3,0.3784
+5,Medium,407,6,Back to School,4,0.5007
+5,Medium,408,9,End of Summer Savings,1,0.4733
+5,Medium,408,9,End of Summer Savings,2,0.4542
+5,Medium,408,9,End of Summer Savings,3,0.4431
+5,Medium,408,9,End of Summer Savings,4,0.4026
+5,Medium,409,14,End of Summer Savings,1,0.4327
+5,Medium,409,14,End of Summer Savings,2,0.4833
+5,Medium,409,14,End of Summer Savings,3,0.4414
+5,Medium,409,14,End of Summer Savings,4,0.515
+5,Medium,410,11,Influencer Collection,1,0.4995
+5,Medium,410,11,Influencer Collection,2,0.5511
+5,Medium,410,11,Influencer Collection,3,0.5528
+5,Medium,410,11,Influencer Collection,4,0.547
+5,Medium,411,23,Back to School,1,0.5011
+5,Medium,411,23,Back to School,2,0.5559
+5,Medium,411,23,Back to School,3,0.5437
+5,Medium,411,23,Back to School,4,0.5191
+5,Medium,412,6,Influencer Collection,1,0.5934
+5,Medium,412,6,Influencer Collection,2,0.6263
+5,Medium,412,6,Influencer Collection,3,0.4908
+5,Medium,412,6,Influencer Collection,4,0.5804
+5,Medium,413,1,End of Summer Savings,1,0.4626
+5,Medium,413,1,End of Summer Savings,2,0.4771
+5,Medium,413,1,End of Summer Savings,3,0.5409
+5,Medium,413,1,End of Summer Savings,4,0.4689
+5,Medium,414,1,Back to School,1,0.5737
+5,Medium,414,1,Back to School,2,0.5553
+5,Medium,414,1,Back to School,3,0.5116
+5,Medium,414,1,Back to School,4,0.5706
+5,Medium,415,12,Back to School,1,0.5059
+5,Medium,415,12,Back to School,2,0.4864
+5,Medium,415,12,Back to School,3,0.5055
+5,Medium,415,12,Back to School,4,0.4908
+6,Medium,501,6,Back to School,1,0.2475
+6,Medium,501,6,Back to School,2,0.4147
+6,Medium,501,6,Back to School,3,0.351
+6,Medium,501,6,Back to School,4,0.3433
+6,Medium,502,19,End of Summer Savings,1,0.3194
+6,Medium,502,19,End of Summer Savings,2,0.2964
+6,Medium,502,19,End of Summer Savings,3,0.3364
+6,Medium,502,19,End of Summer Savings,4,0.3605
+6,Medium,503,2,End of Summer Savings,1,0.367
+6,Medium,503,2,End of Summer Savings,2,0.4153
+6,Medium,503,2,End of Summer Savings,3,0.2771
+6,Medium,503,2,End of Summer Savings,4,0.372
+6,Medium,504,4,Influencer Collection,1,0.4216
+6,Medium,504,4,Influencer Collection,2,0.368
+6,Medium,504,4,Influencer Collection,3,0.4698
+6,Medium,504,4,Influencer Collection,4,0.4735
+6,Medium,505,1,End of Summer Savings,1,0.3221
+6,Medium,505,1,End of Summer Savings,2,0.3841
+6,Medium,505,1,End of Summer Savings,3,0.379
+6,Medium,505,1,End of Summer Savings,4,0.4484
+6,Medium,506,12,End of Summer Savings,1,0.3745
+6,Medium,506,12,End of Summer Savings,2,0.3546
+6,Medium,506,12,End of Summer Savings,3,0.3185
+6,Medium,506,12,End of Summer Savings,4,0.1926
+6,Medium,507,5,End of Summer Savings,1,0.3865
+6,Medium,507,5,End of Summer Savings,2,0.1734
+6,Medium,507,5,End of Summer Savings,3,0.3314
+6,Medium,507,5,End of Summer Savings,4,0.2344
+6,Medium,508,5,Back to School,1,0.3717
+6,Medium,508,5,Back to School,2,0.3052
+6,Medium,508,5,Back to School,3,0.3251
+6,Medium,508,5,Back to School,4,0.2912
+6,Medium,509,8,Influencer Collection,1,0.4046
+6,Medium,509,8,Influencer Collection,2,0.4125
+6,Medium,509,8,Influencer Collection,3,0.3205
+6,Medium,509,8,Influencer Collection,4,0.475
+6,Medium,510,7,End of Summer Savings,1,0.3277
+6,Medium,510,7,End of Summer Savings,2,0.3026
+6,Medium,510,7,End of Summer Savings,3,0.2755
+6,Medium,510,7,End of Summer Savings,4,0.2737
+6,Medium,511,24,Back to School,1,0.4748
+6,Medium,511,24,Back to School,2,0.3941
+6,Medium,511,24,Back to School,3,0.4329
+6,Medium,511,24,Back to School,4,0.4259
+6,Medium,512,4,Influencer Collection,1,0.353
+6,Medium,512,4,Influencer Collection,2,0.3586
+6,Medium,512,4,Influencer Collection,3,0.493
+6,Medium,512,4,Influencer Collection,4,0.3081
+6,Medium,513,7,Influencer Collection,1,0.4498
+6,Medium,513,7,Influencer Collection,2,0.4171
+6,Medium,513,7,Influencer Collection,3,0.411
+6,Medium,513,7,Influencer Collection,4,0.4097
+6,Medium,514,6,Influencer Collection,1,0.411
+6,Medium,514,6,Influencer Collection,2,0.4156
+6,Medium,514,6,Influencer Collection,3,0.3639
+6,Medium,514,6,Influencer Collection,4,0.3967
+6,Medium,515,8,Back to School,1,0.3446
+6,Medium,515,8,Back to School,2,0.4013
+6,Medium,515,8,Back to School,3,0.3218
+6,Medium,515,8,Back to School,4,0.4373
+7,Medium,601,7,Back to School,1,0.4901
+7,Medium,601,7,Back to School,2,0.4629
+7,Medium,601,7,Back to School,3,0.3714
+7,Medium,601,7,Back to School,4,0.4282
+7,Medium,602,4,Back to School,1,0.4722
+7,Medium,602,4,Back to School,2,0.3524
+7,Medium,602,4,Back to School,3,0.4722
+7,Medium,602,4,Back to School,4,0.4315
+7,Medium,603,4,End of Summer Savings,1,0.4071
+7,Medium,603,4,End of Summer Savings,2,0.3826
+7,Medium,603,4,End of Summer Savings,3,0.4144
+7,Medium,603,4,End of Summer Savings,4,0.257
+7,Medium,604,11,Back to School,1,0.4029
+7,Medium,604,11,Back to School,2,0.4835
+7,Medium,604,11,Back to School,3,0.4326
+7,Medium,604,11,Back to School,4,0.442
+7,Medium,605,8,Back to School,1,0.4614
+7,Medium,605,8,Back to School,2,0.4112
+7,Medium,605,8,Back to School,3,0.4503
+7,Medium,605,8,Back to School,4,0.3885
+7,Medium,606,8,Back to School,1,0.4196
+7,Medium,606,8,Back to School,2,0.4227
+7,Medium,606,8,Back to School,3,0.3851
+7,Medium,606,8,Back to School,4,0.4351
+7,Medium,607,3,End of Summer Savings,1,0.4939
+7,Medium,607,3,End of Summer Savings,2,0.4025
+7,Medium,607,3,End of Summer Savings,3,0.4246
+7,Medium,607,3,End of Summer Savings,4,0.3162
+7,Medium,608,18,Influencer Collection,1,0.5338
+7,Medium,608,18,Influencer Collection,2,0.5531
+7,Medium,608,18,Influencer Collection,3,0.561
+7,Medium,608,18,Influencer Collection,4,0.4324
+7,Medium,609,9,Influencer Collection,1,0.4818
+7,Medium,609,9,Influencer Collection,2,0.4311
+7,Medium,609,9,Influencer Collection,3,0.4378
+7,Medium,609,9,Influencer Collection,4,0.569
+7,Medium,610,4,Influencer Collection,1,0.5353
+7,Medium,610,4,Influencer Collection,2,0.4792
+7,Medium,610,4,Influencer Collection,3,0.5618
+7,Medium,610,4,Influencer Collection,4,0.4666
+7,Medium,611,11,Back to School,1,0.4043
+7,Medium,611,11,Back to School,2,0.5115
+7,Medium,611,11,Back to School,3,0.425
+7,Medium,611,11,Back to School,4,0.5276
+7,Medium,612,1,Back to School,1,0.4763
+7,Medium,612,1,Back to School,2,0.5221
+7,Medium,612,1,Back to School,3,0.4017
+7,Medium,612,1,Back to School,4,0.4836
+7,Medium,613,18,Influencer Collection,1,0.4276
+7,Medium,613,18,Influencer Collection,2,0.5052
+7,Medium,613,18,Influencer Collection,3,0.5686
+7,Medium,613,18,Influencer Collection,4,0.4751
+7,Medium,614,8,End of Summer Savings,1,0.3856
+7,Medium,614,8,End of Summer Savings,2,0.3729
+7,Medium,614,8,End of Summer Savings,3,0.356
+7,Medium,614,8,End of Summer Savings,4,0.3335
+7,Medium,615,1,End of Summer Savings,1,0.485
+7,Medium,615,1,End of Summer Savings,2,0.368
+7,Medium,615,1,End of Summer Savings,3,0.4832
+7,Medium,615,1,End of Summer Savings,4,0.4154
+8,Medium,701,1,Back to School,1,0.5356
+8,Medium,701,1,Back to School,2,0.4972
+8,Medium,701,1,Back to School,3,0.4877
+8,Medium,701,1,Back to School,4,0.4684
+8,Medium,702,13,Influencer Collection,1,0.5182
+8,Medium,702,13,Influencer Collection,2,0.4502
+8,Medium,702,13,Influencer Collection,3,0.4944
+8,Medium,702,13,Influencer Collection,4,0.5132
+8,Medium,703,4,Influencer Collection,1,0.5285
+8,Medium,703,4,Influencer Collection,2,0.4084
+8,Medium,703,4,Influencer Collection,3,0.6445
+8,Medium,703,4,Influencer Collection,4,0.4443
+8,Medium,704,27,Influencer Collection,1,0.5664
+8,Medium,704,27,Influencer Collection,2,0.4606
+8,Medium,704,27,Influencer Collection,3,0.5546
+8,Medium,704,27,Influencer Collection,4,0.5141
+8,Medium,705,22,Back to School,1,0.4967
+8,Medium,705,22,Back to School,2,0.4998
+8,Medium,705,22,Back to School,3,0.495
+8,Medium,705,22,Back to School,4,0.4735
+8,Medium,706,17,Back to School,1,0.5026
+8,Medium,706,17,Back to School,2,0.5205
+8,Medium,706,17,Back to School,3,0.5114
+8,Medium,706,17,Back to School,4,0.463
+8,Medium,707,5,Influencer Collection,1,0.5699
+8,Medium,707,5,Influencer Collection,2,0.4557
+8,Medium,707,5,Influencer Collection,3,0.4592
+8,Medium,707,5,Influencer Collection,4,0.5052
+8,Medium,708,15,End of Summer Savings,1,0.3261
+8,Medium,708,15,End of Summer Savings,2,0.5727
+8,Medium,708,15,End of Summer Savings,3,0.3732
+8,Medium,708,15,End of Summer Savings,4,0.4122
+8,Medium,709,1,End of Summer Savings,1,0.3973
+8,Medium,709,1,End of Summer Savings,2,0.503
+8,Medium,709,1,End of Summer Savings,3,0.4016
+8,Medium,709,1,End of Summer Savings,4,0.4137
+8,Medium,710,24,Back to School,1,0.5479
+8,Medium,710,24,Back to School,2,0.5239
+8,Medium,710,24,Back to School,3,0.4215
+8,Medium,710,24,Back to School,4,0.4963
+8,Medium,711,1,Influencer Collection,1,0.5495
+8,Medium,711,1,Influencer Collection,2,0.5578
+8,Medium,711,1,Influencer Collection,3,0.4649
+8,Medium,711,1,Influencer Collection,4,0.5684
+8,Medium,712,9,Back to School,1,0.4806
+8,Medium,712,9,Back to School,2,0.5109
+8,Medium,712,9,Back to School,3,0.4419
+8,Medium,712,9,Back to School,4,0.4952
+9,Medium,801,3,Influencer Collection,1,0.6511
+9,Medium,801,3,Influencer Collection,2,0.5438
+9,Medium,801,3,Influencer Collection,3,0.5714
+9,Medium,801,3,Influencer Collection,4,0.4991
+9,Medium,802,9,End of Summer Savings,1,0.4876
+9,Medium,802,9,End of Summer Savings,2,0.4414
+9,Medium,802,9,End of Summer Savings,3,0.581
+9,Medium,802,9,End of Summer Savings,4,0.4416
+9,Medium,803,10,Back to School,1,0.4466
+9,Medium,803,10,Back to School,2,0.5378
+9,Medium,803,10,Back to School,3,0.4391
+9,Medium,803,10,Back to School,4,0.5241
+9,Medium,804,1,Influencer Collection,1,0.5054
+9,Medium,804,1,Influencer Collection,2,0.5843
+9,Medium,804,1,Influencer Collection,3,0.5977
+9,Medium,804,1,Influencer Collection,4,0.6044
+9,Medium,805,6,Back to School,1,0.5094
+9,Medium,805,6,Back to School,2,0.4938
+9,Medium,805,6,Back to School,3,0.6398
+9,Medium,805,6,Back to School,4,0.4584
+9,Medium,806,5,Back to School,1,0.5101
+9,Medium,806,5,Back to School,2,0.5616
+9,Medium,806,5,Back to School,3,0.4577
+9,Medium,806,5,Back to School,4,0.4647
+9,Medium,807,1,End of Summer Savings,1,0.4602
+9,Medium,807,1,End of Summer Savings,2,0.5109
+9,Medium,807,1,End of Summer Savings,3,0.5168
+9,Medium,807,1,End of Summer Savings,4,0.5591
+9,Medium,808,20,Back to School,1,0.559
+9,Medium,808,20,Back to School,2,0.598
+9,Medium,808,20,Back to School,3,0.6097
+9,Medium,808,20,Back to School,4,0.6414
+9,Medium,809,9,Back to School,1,0.3998
+9,Medium,809,9,Back to School,2,0.5458
+9,Medium,809,9,Back to School,3,0.5264
+9,Medium,809,9,Back to School,4,0.4543
+9,Medium,810,13,Influencer Collection,1,0.493
+9,Medium,810,13,Influencer Collection,2,0.618
+9,Medium,810,13,Influencer Collection,3,0.58
+9,Medium,810,13,Influencer Collection,4,0.552
+10,Large,901,7,End of Summer Savings,1,0.5376
+10,Large,901,7,End of Summer Savings,2,0.3936
+10,Large,901,7,End of Summer Savings,3,0.472
+10,Large,901,7,End of Summer Savings,4,0.5366
+10,Large,902,1,Influencer Collection,1,0.6153
+10,Large,902,1,Influencer Collection,2,0.5917
+10,Large,902,1,Influencer Collection,3,0.6373
+10,Large,902,1,Influencer Collection,4,0.6177
+10,Large,903,7,Back to School,1,0.5189
+10,Large,903,7,Back to School,2,0.5117
+10,Large,903,7,Back to School,3,0.5433
+10,Large,903,7,Back to School,4,0.5005
+10,Large,904,10,End of Summer Savings,1,0.5109
+10,Large,904,10,End of Summer Savings,2,0.5482
+10,Large,904,10,End of Summer Savings,3,0.4416
+10,Large,904,10,End of Summer Savings,4,0.5395
+10,Large,905,2,Back to School,1,0.5434
+10,Large,905,2,Back to School,2,0.6024
+10,Large,905,2,Back to School,3,0.5639
+10,Large,905,2,Back to School,4,0.5833
+10,Large,906,13,End of Summer Savings,1,0.5126
+10,Large,906,13,End of Summer Savings,2,0.5173
+10,Large,906,13,End of Summer Savings,3,0.5135
+10,Large,906,13,End of Summer Savings,4,0.4185
+10,Large,907,10,End of Summer Savings,1,0.4521
+10,Large,907,10,End of Summer Savings,2,0.5502
+10,Large,907,10,End of Summer Savings,3,0.4535
+10,Large,907,10,End of Summer Savings,4,0.4706
+10,Large,908,3,End of Summer Savings,1,0.4359
+10,Large,908,3,End of Summer Savings,2,0.4603
+10,Large,908,3,End of Summer Savings,3,0.4722
+10,Large,908,3,End of Summer Savings,4,0.5141
+10,Large,909,1,Influencer Collection,1,0.5819
+10,Large,909,1,Influencer Collection,2,0.6272
+10,Large,909,1,Influencer Collection,3,0.6666
+10,Large,909,1,Influencer Collection,4,0.6466
+10,Large,910,1,Influencer Collection,1,0.6634
+10,Large,910,1,Influencer Collection,2,0.6059
+10,Large,910,1,Influencer Collection,3,0.6195
+10,Large,910,1,Influencer Collection,4,0.6784
+10,Large,911,1,End of Summer Savings,1,0.5539
+10,Large,911,1,End of Summer Savings,2,0.4916
+10,Large,911,1,End of Summer Savings,3,0.5826
+10,Large,911,1,End of Summer Savings,4,0.4812
+10,Large,912,6,End of Summer Savings,1,0.4998
+10,Large,912,6,End of Summer Savings,2,0.4484
+10,Large,912,6,End of Summer Savings,3,0.5512
+10,Large,912,6,End of Summer Savings,4,0.4736
+10,Large,913,24,Influencer Collection,1,0.6233
+10,Large,913,24,Influencer Collection,2,0.5368
+10,Large,913,24,Influencer Collection,3,0.6237
+10,Large,913,24,Influencer Collection,4,0.6358
+10,Large,914,9,End of Summer Savings,1,0.447
+10,Large,914,9,End of Summer Savings,2,0.4344
+10,Large,914,9,End of Summer Savings,3,0.5236
+10,Large,914,9,End of Summer Savings,4,0.459
+10,Large,915,3,Influencer Collection,1,0.5351
+10,Large,915,3,Influencer Collection,2,0.4976
+10,Large,915,3,Influencer Collection,3,0.6831
+10,Large,915,3,Influencer Collection,4,0.661
+10,Large,916,7,End of Summer Savings,1,0.4361
+10,Large,916,7,End of Summer Savings,2,0.462
+10,Large,916,7,End of Summer Savings,3,0.5152
+10,Large,916,7,End of Summer Savings,4,0.4971
+10,Large,917,14,Back to School,1,0.535
+10,Large,917,14,Back to School,2,0.5634
+10,Large,917,14,Back to School,3,0.5183
+10,Large,917,14,Back to School,4,0.502
+10,Large,918,6,Influencer Collection,1,0.4962
+10,Large,918,6,Influencer Collection,2,0.6254
+10,Large,918,6,Influencer Collection,3,0.5011
+10,Large,918,6,Influencer Collection,4,0.6163
+10,Large,919,2,Influencer Collection,1,0.5987
+10,Large,919,2,Influencer Collection,2,0.6299
+10,Large,919,2,Influencer Collection,3,0.572
+10,Large,919,2,Influencer Collection,4,0.6434
+10,Large,920,14,End of Summer Savings,1,0.502
+10,Large,920,14,End of Summer Savings,2,0.4575
+10,Large,920,14,End of Summer Savings,3,0.4429
+10,Large,920,14,End of Summer Savings,4,0.4941
